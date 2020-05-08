@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344366834069",
+    "firebase_url": "https://unity-host.firebaseio.com",
+    "project_id": "unity-host",
+    "storage_bucket": "unity-host.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344366834069:android:4665d0bd6f8c994523569c",
+        "android_client_info": {
+          "package_name": "com.hiddensoda.unityhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344366834069-qb50kdcorqgosmrbbajmh8nopmkr7nn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUMGEOcrp09G8RJ0b1wutoKBNJjw0Oak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344366834069-qb50kdcorqgosmrbbajmh8nopmkr7nn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
